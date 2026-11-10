@@ -1,0 +1,16 @@
+image,deformable,deformable_small,single_scale,single_scale_small,detr,detr_small,classes
+01_skier,2,0,2,0,2,0,"person 1, skis 1"
+02_giraffes,2,0,2,0,2,0,giraffe 2
+03_fruits,7,0,7,0,7,0,"orange 5, apple 2"
+04_stop_sign,3,1,2,0,3,0,"stop sign 2, truck 1"
+05_cat_tv,6,1,6,1,5,1,"cat 1, cup 1, tv 1, person 1, tie 1, book 1"
+06_kids,18,0,18,0,22,2,"person 12, handbag 3, tennis racket 2, baseball glove 1"
+07_class_photo,28,9,24,10,38,13,"person 19, tie 9"
+08_living_room,23,11,24,10,24,10,"vase 6, chair 4, dining table 3, person 2, potted plant 2, refrigerator 2, tv 1, bottle 1, microwave 1, clock 1"
+09_kitchen,24,10,17,6,15,5,"spoon 7, bowl 5, cup 3, person 2, oven 2, dining table 1, potted plant 1, bottle 1, sink 1, refrigerator 1"
+10_airplanes,6,4,4,2,8,6,"airplane 2, boat 2, bus 1, person 1"
+11_train,1,0,2,1,1,0,train 1
+12_kangaroos,0,0,10,0,1,0,
+13_lynx,1,0,1,0,1,0,cat 1
+14_bruegel,32,20,36,26,39,30,"person 19, horse 6, dog 3, bird 2, cow 2"
+15_parking_aerial,0,0,1,0,1,0,
